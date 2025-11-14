@@ -38,13 +38,13 @@ The output includes structured CSV files containing vocabulary grouped by catego
 
 A full statistical simulation study built from scratch, including:
 
-✔ Custom EM Algorithm
+Custom EM Algorithm
 
 Implemented a dynamic handmade EM algorithm for fitting K-component univariate Gaussian mixtures.
 
 Learns mixture weights, means, and variances through iterative E–M updates.
 
-✔ Synthetic Data Generation
+Synthetic Data Generation
 
 Generated complex mixture distributions using Bart’s NormMixture function.
 
@@ -54,7 +54,7 @@ n₁ = 500 → non-asymptotic regime
 
 n₂ = 2500 → asymptotic regime
 
-✔ Model Selection Experiments
+Model Selection Experiments
 
 Evaluated the optimal number of mixture components (k) using:
 
